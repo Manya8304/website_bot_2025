@@ -1,1 +1,1 @@
-# snaPay-2025
+# Custom Website Bot
